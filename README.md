@@ -17,14 +17,14 @@ Professor: Rahat Zafar
 - Parent-staff messaging
 - Responsive design for desktop and mobile
 
-## 🛠️ Technology Stack
+##  Technology Stack
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Backend**: Python with Flask
 - **Database**: SQLite (development), PostgreSQL (production)
 - **Authentication**: Flask-Login, bcrypt
 - **Deployment**: Heroku or PythonAnywhere
 
-## 📁 Project Structure
+##  Project Structure
 childcare-management-system/
 ├── app/
 │   ├── templates/
