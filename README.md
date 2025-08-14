@@ -26,3 +26,14 @@ Professor: Rahat Zafar
 - **Deployment**: Heroku or PythonAnywhere
 
 ## 📁 Project Structure
+childcare-management-system/
+├── app/
+│   ├── templates/
+│   ├── static/
+├── config.py
+├── run.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── SOW/
+│   └── Course Project Planning SOW.docx
