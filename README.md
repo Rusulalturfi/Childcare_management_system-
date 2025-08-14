@@ -1,4 +1,3 @@
-
 # Childcare Management System
 
 ##  Project Overview
@@ -37,3 +36,4 @@ childcare-management-system/
 ├── .gitignore
 ├── SOW/
 │   └── Course Project Planning SOW.docx
+
