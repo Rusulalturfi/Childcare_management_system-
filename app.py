@@ -11,7 +11,6 @@ def login():
     if request.method == 'POST':
         username = request.form['username']
         password = request.form['password']
-        # For now, just display the submitted credentials
         return f"Username: {username}, Password: {password}"
     return render_template('login.html')
 
