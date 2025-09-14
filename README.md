@@ -27,13 +27,19 @@ Professor: Rahat Zafar
 ## Project Structure
 childcare-management-system/
 ├── app/
-│ ├── templates/
-│ ├── static/
+│   ├── templates/
+│   │   └── login.html
+│   ├── static/
+│   │   ├── css/
+│   │   ├── js/
+│   │   └── images/
+│   │       ├── logo.png
+│   │       └── background.jpg
 ├── config.py
 ├── run.py
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-├── SOW/
-│ └── Course Project Planning SOW.docx
+└── SOW/
+    └── Course Project Planning SOW.docx
 
